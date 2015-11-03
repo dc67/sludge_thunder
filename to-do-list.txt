@@ -1,0 +1,407 @@
+/**
+
+	TODO:
+	- finish index
+	- save template parts here
+	- make php template
+
+ */
+
+
+
+
+
+
+
+
+ 
+
+
+/*===========================================
+=            SKETCHES/WATERCOLOR            =
+===========================================*/
+
+
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_05.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_06.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_07.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_08.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_09.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_10.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_11.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_12.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_13.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_14.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_15.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_16.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_17.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_18.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_19.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_20.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_21.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_22.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_23.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="col-lg-3 col-sm-4">
+    <a href="#" class="portfolio-box" data-toggle="modal" data-target="#image_id">
+        <img src="uploads/cropped_images/500x500_sludge_thunder_24.jpg" class="img-responsive" alt="">
+        <div class="portfolio-box-caption">
+            <div class="portfolio-box-caption-content">
+                <div class="project-category text-faded">
+                    Category
+                </div>
+                <div class="project-name">
+                    Project Name
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+</div>
+
+
+/*=====  End of SKETCHES/WATERCOLOR  ======*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*============================================
+=            SLUDGE THUNDER MUSIC            =
+============================================*/
+
+<div class="col-lg-3 col-sm-6 col-xs-12">
+    <div class="service-box">
+        <i class="wow bounceIn text-primary" data-wow-delay=".2s">Fawn Ft. Sludge Thunder</i>
+        <iframe class="soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217911679&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+    </div>
+</div>
+<div class="col-lg-3 col-sm-6 col-xs-12">
+    <div class="service-box">
+        <i class="wow bounceIn text-primary" data-wow-delay=".3s">Burning Like A Seagull</i>
+        <iframe class="soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/172793238&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+    </div>
+</div>
+<div class="col-lg-3 col-sm-6 col-xs-12">
+    <div class="service-box">
+        <i class="wow bounceIn text-primary" data-wow-delay=".1s">Moon Screams</i>
+        <iframe class="soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/163074385&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+    </div>
+</div>
+<div class="col-lg-3 col-sm-6 col-xs-12">
+    <div class="service-box">
+        <i class="wow bounceIn text-primary" data-wow-delay=".2s">Titan's Revenge</i>
+        <iframe class="soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/161544353&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+    </div>
+</div>
+<div class="col-lg-3 col-sm-6 col-xs-12">
+    <div class="service-box">
+        <i class="wow bounceIn text-primary" data-wow-delay=".3s">Vitamin Black</i>
+        <iframe class="soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/155907757&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+    </div>
+</div>
+<div class="col-lg-3 col-sm-6 col-xs-12">
+    <div class="service-box">
+        <i class="wow bounceIn text-primary" data-wow-delay=".1s">Terminal</i>
+        <iframe class="soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/154246011&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+    </div>
+</div>
+<div class="col-lg-3 col-sm-6 col-xs-12">
+    <div class="service-box">
+        <i class="wow bounceIn text-primary" data-wow-delay=".2s">Grub Nation/Natassja</i>
+        <iframe class="soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/153655353&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+    </div>
+</div>
+<div class="col-lg-3 col-sm-6 col-xs-12">
+    <div class="service-box">
+        <i class="wow bounceIn text-primary" data-wow-delay=".3s">Tomb Of The Gloaming</i>
+        <iframe class="soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149205441&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+    </div>
+</div>
+<div class="col-lg-3 col-sm-6 col-xs-12">
+    <div class="service-box">
+        <i class="wow bounceIn text-primary" data-wow-delay=".1s">Into The Realms (Staircase Edition)</i>
+        <iframe class="soundcloud" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/149204664&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+    </div>
+</div>
+
+
+/*=====  End of SLUDGE THUNDER MUSIC  ======*/
