@@ -1,0 +1,124 @@
+/**
+ *
+ * Custom Styles - Kirtis McGlynn
+ *    - http://kirtismcglynn.net
+ */
+
+@import "variables.less";
+@import "mixins.less";
+
+
+/*=====================================
+=            Global Styles            =
+=====================================*/
+
+.btn {
+    border-radius: 0;
+    text-transform: capitalize;
+    font-style: italic;
+    font-weight: 700;
+    // shadow depth 1
+    box-shadow: @theme-shadow-1;
+    &:hover,
+    &:active,
+    &.active,
+    &:active:focus,
+    &.active:focus {
+        // shadow depth 2
+        box-shadow: @theme-shadow-2;
+    }
+    &:focus {
+        // shadow depth 2
+        box-shadow: @theme-shadow-2;
+    }
+}
+
+.dropdown-menu {
+    box-shadow: @theme-shadow-1;
+    .transition-all;
+    
+    &:hover,
+    &:active,
+    &:focus {
+        box-shadow: @theme-shadow-2;
+    }
+
+        >.active {
+            >a,
+            >a:focus,
+            >a:hover {
+                background: @theme-primary;
+            }
+        }
+}
+
+.modal-header {
+    padding-bottom: 30px;
+}
+
+i.wow {
+    display: block;
+}
+
+section hr {
+    margin-bottom: 50px;
+}
+
+.portfolio-box img, 
+.modal-body img {
+    margin: 0 auto;
+    max-height: 70vh;
+}
+
+/*================================
+=            Homepage            =
+================================*/
+
+.home {
+
+    .view-more {
+        text-align: center;
+        margin: 100px 0 0;
+    }
+
+    #music {
+
+        iframe.soundcloud {
+            min-height: 400px;
+            max-width: 100%;
+        }
+    }
+}
+
+/*=======================================
+=            Secondary Pages            =
+=======================================*/
+
+.secondary {
+    .portfolio-box {
+        margin: 15px auto;
+    }
+}
+
+/*=============================
+=            Music            =
+=============================*/
+
+.music {
+    iframe.soundcloud {
+        min-height: 250px;
+        max-width: 100%;
+    }
+}
+
+/*==============================
+=            Modals            =
+==============================*/
+
+.modal-body {
+    background: #333;
+
+    img {
+        border: 15px solid white;
+    }
+}
